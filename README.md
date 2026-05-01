@@ -319,7 +319,7 @@ If nothing shows:
 > menu bar and get a "can't connect" error, it means Windows grabbed the
 > device first. Do NOT rely on this method.
 > Instead enable USB Tethering on the phone:
-> Settings → Hotspot & Tethering → USB Tethering → toggle ON
+> Developer Option → USB Configuration → USB Tethering
 > This is also why the USB filter in Section 0A is critical —
 > it automatically passes the device to Kali before Windows can claim it.
 
