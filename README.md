@@ -355,7 +355,7 @@ adb devices
 **If no device shows:**
 - Set USB mode on phone to File Transfer / MTP
 - If MTP fails enable USB Tethering:
-  Settings → Hotspot & Tethering → USB Tethering → toggle ON
+  Settings → Developer Option → USB Configuraion → USB Tethering
 ```bash
 adb kill-server
 adb start-server
