@@ -174,7 +174,7 @@ List of devices attached
 On the device:
 - Enable Developer Options (Settings → About Phone → tap Build Number 7 times)
 - Enable USB Debugging
-- Set USB mode to File Transfer (MTP)
+- Set USB mode to File Transfer / USB tethering (this worked for this device)
 
 ### Step 4 — Check device again
 ```bash
