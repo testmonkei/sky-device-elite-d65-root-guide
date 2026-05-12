@@ -7,7 +7,12 @@
 
 This is the most important section of the entire guide. If your VM does not
 grab the device before Windows does, nothing else will work. BROM mode is
-impossible if Windows sees the device first.
+impossible if Windows sees the device first. 
+
+**Also VERY IMPORTANT: COPY THE 
+COMPLETE PARTITION not just the boot_a.img but the super.img, vendor.img etc. 
+you will need it if you every wipe the complete phone and flashing new OS 
+system or in a boot loop.**
 
 ### Requirements
 - VirtualBox 7.x
